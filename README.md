@@ -1,4 +1,11 @@
 # Douglas828's Bash
 Simple repository for my bash scripts.
-List:
-1. on_start.sh (Used to start processes when I boot my computer)
+
+List downloaded scripts:
+
+```bash
+sudo apt install git
+git clone https://github.com/Douglas828/bash/ Douglas828-bash
+cd Douglas828-bash
+./list_scripts
+```
