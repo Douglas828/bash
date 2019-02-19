@@ -7,5 +7,5 @@ List downloaded scripts:
 sudo apt install git
 git clone https://github.com/Douglas828/bash/ Douglas828-bash
 cd Douglas828-bash
-./list_scripts
+./list_scripts.sh
 ```
