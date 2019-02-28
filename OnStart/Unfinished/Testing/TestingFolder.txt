@@ -1,0 +1,9 @@
+-=- The Testing Folder! -=-
+
+This folder's only purpose is for me to commit my progress - incase a script is taking a while,
+or I just want to show what's new. 
+
+These scripts are *Experimental*, meaning that they CAN and WILL contain bugs and errors.
+This will potentially render the testing script useless.
+
+*Use at your own risk*
